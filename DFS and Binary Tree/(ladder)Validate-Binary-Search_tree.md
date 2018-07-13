@@ -49,7 +49,7 @@
 
 ### In Order Traverse: O(n)--Non recursion
 
-```javascript class:"lineNo"
+```java class:"lineNo"
 /**
  * Definition of TreeNode:
  * public class TreeNode {
