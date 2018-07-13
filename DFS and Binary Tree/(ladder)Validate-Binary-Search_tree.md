@@ -109,6 +109,12 @@ public class Solution {
 }
 ```
 
+```javascript {.line-numbers}
+function add(x, y) {
+  return x + y
+}
+```
+
 #### <span style="color:blue">some *Comments* text</span>
      * <span style="color:red">some **注意第一个点的比较，因为此时没有prev这个值，所以额外定义了id line34; ** text</span>
      * <span style="color:red">some __**即使你初始赋值是MIN_VALUE line24也是没用的，因为BST是严格的大于和小于，他可能初始值就正好是MIN_VALUE line24 **__ text</span>
