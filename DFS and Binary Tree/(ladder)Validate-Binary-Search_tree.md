@@ -3,51 +3,52 @@
 **Author**: Nancy
 &copy;
 
-##Description
+## Description
+
 [a link](https://www.lintcode.com/problem/validate-binary-search-tree/description
 )
 ![description](https://github.com/goodgirl2017/leetcode-problems/blob/master/Images/validate-binary-search-tree.png)
 
-##Assumption
+## Assumption
 
-##Key Points
+## Key Points
 
-##Data Structure
+## Data Structure
 
-##How to get it?
-
-
-##Method
+## How to get it?
 
 
-##Complexity
-
-###Method1: 
-
-####Time Complexity
+## Method
 
 
-####Space Complexity
+## Complexity
+
+### Method1: Traverse 
+
+#### Time Complexity: O(n)
+
+
+#### Space Complexity: O(n)
 
 
 ###Method2: 
 
-####Time Complexity
+####Time Complexity: O(n)
 
 
-####Space Complexity
+####Space Complexity: O(n)
 
 
-##Other Methods
+## Other Methods
 
-##Comparison of Methods
+## Comparison of Methods
 
-##Follow Up
+## Follow Up
 
-##Code
+## Code
 
-###In Order Traverse: O(n)--Non recursion
-~~~~
+### In Order Traverse: O(n)--Non recursion
+~~~~css
 /**
  * Definition of TreeNode:
  * public class TreeNode {
@@ -108,7 +109,7 @@ public class Solution {
 ~~~~
 
 #### <span style="color:blue">some *Comments.* text</span>
-     * <span style="color:red">some __**注意第一个点的比较，因为此时没有prev这个值，所以额外定义了id line34; **__ text</span>
+     * <span style="color:red">some **注意第一个点的比较，因为此时没有prev这个值，所以额外定义了id line34; ** text</span>
      * <span style="color:red">some __**即使你初始赋值是MIN_VALUE line24也是没用的，因为BST是严格的大于和小于，他可能初始值就正好是MIN_VALUE line24 **__ text</span>
      <span style="color:red">some __**注Int prev line 24不要忘了初始赋值 **__ text</span>
      * <span style="color:red">some __**如果要避免额外定义id，可以考虑prev设置成TreeNode type,同时赋值为NULL，这样就没有极端情况的考虑了，因为corner case已经把root == null解决了 **__ text</span>
@@ -123,7 +124,7 @@ public class Solution {
 
 
 ## Knowledge
-	*<span style="color:red">some __**! TreeNode里面有== 方法，不用用equals() **__ text</span>
+	*<span style="color:red">some **! TreeNode里面有== 方法，不用用equals() ** text</span>
 
 
 
