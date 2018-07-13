@@ -31,12 +31,12 @@
 #### Space Complexity: O(n)
 
 
-###Method2: 
+### Method2: 
 
-####Time Complexity: O(n)
+#### Time Complexity: O(n)
 
 
-####Space Complexity: O(n)
+#### Space Complexity: O(n)
 
 
 ## Other Methods
@@ -48,7 +48,7 @@
 ## Code
 
 ### In Order Traverse: O(n)--Non recursion
-~~~~css
+```javascript {.line-numbers}
 /**
  * Definition of TreeNode:
  * public class TreeNode {
@@ -106,9 +106,9 @@ public class Solution {
         return true;
     }
 }
-~~~~
+```
 
-#### <span style="color:blue">some *Comments.* text</span>
+#### <span style="color:blue">some *Comments* text</span>
      * <span style="color:red">some **注意第一个点的比较，因为此时没有prev这个值，所以额外定义了id line34; ** text</span>
      * <span style="color:red">some __**即使你初始赋值是MIN_VALUE line24也是没用的，因为BST是严格的大于和小于，他可能初始值就正好是MIN_VALUE line24 **__ text</span>
      <span style="color:red">some __**注Int prev line 24不要忘了初始赋值 **__ text</span>
