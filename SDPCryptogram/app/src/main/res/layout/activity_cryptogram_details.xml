@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CryptogramStatsActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/topLayout"
+            android:layout_width="356dp"
+            android:layout_height="428dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lblSelectPlayer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cryptogram Details"
+                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textColor="@android:color/holo_orange_dark" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:orientation="horizontal"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/lblPuzzleNameMsg"
+                    android:layout_width="160dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/puzzlename"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+                <TextView
+                    android:id="@+id/lblPuzzleName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:orientation="horizontal"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/lblPuzzleCreatedMsg"
+                    android:layout_width="160dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/puzzlecreated"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+                <TextView
+                    android:id="@+id/lblPuzzleCreated"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:orientation="horizontal"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/lblPuzzleSolvedMsg"
+                    android:layout_width="160dp"
+                    android:layout_height="match_parent"
+                    android:text="@string/puzzlesolved"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+
+                <TextView
+                    android:id="@+id/lblPuzzleSolved"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:orientation="horizontal"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/lblPuzzleSolvedByMsg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:text="@string/puzzlesolvedby"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:id="@+id/lblPuzzleSolvedBy"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:layout_weight="1"
+                    android:text="None"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:orientation="horizontal"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical|center_horizontal|center"
+                android:orientation="horizontal">
+
+
+                <Button
+                    android:id="@+id/btnStatsDetailBack"
+                    android:layout_width="160dp"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical|center_horizontal|center"
+                    android:onClick="handlePuzzleStatsClick"
+                    android:text="Back" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/bottomLayout"
+            android:layout_width="356dp"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="false"
+            android:layout_below="@+id/topLayout"
+            android:layout_centerHorizontal="true"
+            android:orientation="vertical"
+            android:visibility="invisible">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btnPuzzleStatsHomeMenu"
+                    style="@android:style/Widget.Material.Light.Button.Inset"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:onClick="handlePuzzleStatsClick"
+                    android:text="Home Menu"
+                    android:textAppearance="@android:style/TextAppearance.Material.Medium" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</android.support.constraint.ConstraintLayout>

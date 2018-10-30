@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support.test:runner:1.0.2] /Users/min/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/38c573b01db90fcc97d0af33dc706a58/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9782932a662597b052adf418830c998d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/950a37b141c7735e1cf35d1b411199fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2d8f88fe7c74bca618a5e0ac9c7f7a3b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4f40e36931be069c5848f3ff2191d02a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe27807122d80dd2dc51f4b04e0a6f0/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support.test:monitor:1.0.2] /Users/min/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/d25c852cd6042f93f4f6b9c3571c499b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/133923f9210d636e57d4d4f89f3639e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1611235661ed2e500d287864999b5b46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bfcbf2b9cd5c3634a9c99b30a28091fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc648af5d0e9a4381216cb019d1e1f59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/20ec6005b38e7e91556c333b79276366/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/beeed7f5ae7aedaa5b643ca108025e8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e45212c8035664c2e506212d88423482/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/55f7da409577c017529a708fc4f114db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d63de2934d127ddebf4b6acdd40227ea/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/8d91a25c972ce806b631d0b0d8dc5aaf/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/f7dd9a73b3be349e2264dcce08231ac6/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57f56b841f8756845400cefa87dcbce6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/947504390e2af44eaf4ed3e2850e5e44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3c52a6708f856d9004a14a7f1f25169c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a831812b695ff8650fd8f1a395519cbc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bec807675aaa532e2c9ca05bac7b8df0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2d8f88fe7c74bca618a5e0ac9c7f7a3b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2d8f88fe7c74bca618a5e0ac9c7f7a3b/AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:22:5-28:19
+	android:supportsRtl
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:11:9-40
+activity#edu.gatech.seclass.sdpcryptogram.SDPCryptogramActivity
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:16:27-74
+activity#edu.gatech.seclass.sdpcryptogram.NewPlayerActivity
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:19:9-55
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:19:19-52
+activity#edu.gatech.seclass.sdpcryptogram.PlayerActivity
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:20:9-52
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:20:19-49
+activity#edu.gatech.seclass.sdpcryptogram.CryptogramActivity
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:21:19-53
+activity#edu.gatech.seclass.sdpcryptogram.NewCryptogramActivity
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:22:9-58
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:22:19-56
+activity#edu.gatech.seclass.sdpcryptogram.SelectCryptogramActivity
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:23:19-59
+activity#edu.gatech.seclass.sdpcryptogram.CryptogramStatsActivity
+ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml:24:19-58
+uses-sdk
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.test:runner:1.0.2] /Users/min/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/38c573b01db90fcc97d0af33dc706a58/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:runner:1.0.2] /Users/min/.gradle/caches/transforms-1/files-1.1/runner-1.0.2.aar/38c573b01db90fcc97d0af33dc706a58/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9782932a662597b052adf418830c998d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/9782932a662597b052adf418830c998d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/950a37b141c7735e1cf35d1b411199fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/950a37b141c7735e1cf35d1b411199fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2d8f88fe7c74bca618a5e0ac9c7f7a3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/min/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/2d8f88fe7c74bca618a5e0ac9c7f7a3b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4f40e36931be069c5848f3ff2191d02a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/4f40e36931be069c5848f3ff2191d02a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe27807122d80dd2dc51f4b04e0a6f0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/8fe27807122d80dd2dc51f4b04e0a6f0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.test:monitor:1.0.2] /Users/min/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/d25c852cd6042f93f4f6b9c3571c499b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.test:monitor:1.0.2] /Users/min/.gradle/caches/transforms-1/files-1.1/monitor-1.0.2.aar/d25c852cd6042f93f4f6b9c3571c499b/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/133923f9210d636e57d4d4f89f3639e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/133923f9210d636e57d4d4f89f3639e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1611235661ed2e500d287864999b5b46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/1611235661ed2e500d287864999b5b46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bfcbf2b9cd5c3634a9c99b30a28091fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bfcbf2b9cd5c3634a9c99b30a28091fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc648af5d0e9a4381216cb019d1e1f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/bc648af5d0e9a4381216cb019d1e1f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/20ec6005b38e7e91556c333b79276366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/20ec6005b38e7e91556c333b79276366/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/beeed7f5ae7aedaa5b643ca108025e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/beeed7f5ae7aedaa5b643ca108025e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e45212c8035664c2e506212d88423482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e45212c8035664c2e506212d88423482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/55f7da409577c017529a708fc4f114db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/55f7da409577c017529a708fc4f114db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d63de2934d127ddebf4b6acdd40227ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/min/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d63de2934d127ddebf4b6acdd40227ea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/8d91a25c972ce806b631d0b0d8dc5aaf/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/8d91a25c972ce806b631d0b0d8dc5aaf/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/f7dd9a73b3be349e2264dcce08231ac6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/min/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/f7dd9a73b3be349e2264dcce08231ac6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57f56b841f8756845400cefa87dcbce6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/57f56b841f8756845400cefa87dcbce6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/947504390e2af44eaf4ed3e2850e5e44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/947504390e2af44eaf4ed3e2850e5e44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3c52a6708f856d9004a14a7f1f25169c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3c52a6708f856d9004a14a7f1f25169c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a831812b695ff8650fd8f1a395519cbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a831812b695ff8650fd8f1a395519cbc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bec807675aaa532e2c9ca05bac7b8df0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bec807675aaa532e2c9ca05bac7b8df0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/min/teampro6300/6300Summer18Team25/GroupProject/SDPCryptogram/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/min/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/ad4a36fae24602f008507c69076552a8/AndroidManifest.xml:24:13-83

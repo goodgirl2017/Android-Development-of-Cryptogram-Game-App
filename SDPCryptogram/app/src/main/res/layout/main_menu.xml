@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="What would you like?"
+            android:textAlignment="center"
+            android:textColor="@android:color/holo_orange_dark"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="40sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+
+        <Button
+            android:id="@+id/create_button"
+            style="@android:style/Widget.Material.Light.Button.Inset"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="CREATE"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_green_dark" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+
+        <Button
+            android:id="@+id/completed_button"
+            style="@android:style/Widget.Material.Light.Button.Inset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="COMPLETED"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_green_dark" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+        <Button
+            android:id="@+id/unsolved_button"
+            style="@android:style/Widget.Material.Light.Button.Inset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="UNSOLVED"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_green_dark" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+        <Button
+            android:id="@+id/statistics_button"
+            style="@android:style/Widget.Material.Light.Button.Inset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="STATISTICS"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_green_dark" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1" />
+
+        <Button
+            android:id="@+id/back_button"
+            style="@android:style/Widget.Material.Light.Button.Inset"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BACK TO SIGN IN"
+            android:textAppearance="@android:style/TextAppearance.Widget.PopupMenu.Large" />
+
+
+    </LinearLayout>
+</RelativeLayout>

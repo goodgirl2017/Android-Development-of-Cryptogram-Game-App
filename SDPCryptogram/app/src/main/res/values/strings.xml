@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">SDPCryptogram</string>
+    <string name="title_activity_player">SDPCryptogram</string>
+    <string name="statistics">Cryptogram Statistics</string>
+    <string name="completed">Completed Cryptograms</string>
+    <string name="Unsolved">Unsolved Cryptograms</string>
+    <string name="choose">Choose To Solve</string>
+    <string name="cryptograms_what_do_you_want_to_do">Cryptograms: What do you want to do?</string>
+    <string name="play">Start Play!!!</string>
+    <string name="logout">Logout</string>
+    <string name="user_name">User name:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last name:</string>
+    <string name="email">Email:</string>
+    <string name="cancel">Cancel</string>
+    <string name="test">Apply Cipher</string>
+    <string name="players">Players:</string>
+    <string name="puzzles">Cryptograms:</string>
+    <string name="select">Select</string>
+    <string name="selectplayer">Select Player</string>
+    <string name="unsolvedcryptograms">Unsolved Cryptograms</string>
+    <string name="backtopuzzles">Back</string>
+    <string name="attempt">Attempt Cryptogram</string>
+    <string name="new_player">New Player?</string>
+    <string name="new_puzzle">No Puzzles? Create One!!!</string>
+    <string name="createcryptogram">Create Cryptogram</string>
+    <string name="createplayer">Create Player</string>
+    <string name="submit">Submit</string>
+    <string name="puzzlename">Cryptogram Name: </string>
+    <string name="puzzlecreated">Created Date: </string>
+    <string name="puzzlesolved">Solved By (#): </string>
+    <string name="puzzlesolvedby">First 3 player(s) who solved: </string>
+    <string name="originalphrase">Original Phrase (limit to 40 characters): </string>
+    <string name="allowedattempts">Allowed Attempts: </string>
+    <string name="ciphermap">Cipher Map: </string>
+    <string name="testcipher">Encoded Phrase: </string>
+    <string name="max_attempts_over">The maximum attempts for this cryptogram are over!!</string>
+    <string name="solved_puzzle">Congratulations!!! You solved the cryptogram!!!</string>
+    <string name="forgot_to_hit_play">It appears that you have mapped all characters but forgot to hit APPLY CIPHER button; please do that and then SUBMIT.</string>
+    <string name="new_player_msg">Please fill in your information!</string>
+    <string name="valid_alphabets">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="new_user_username_empty_err">Please provide a username!!!</string>
+    <string name="new_user_username_used_err">Username already taken!!!</string>
+    <string name="new_user_email_empty_err">Please provide a valid email!!!</string>
+    <string name="new_user_email_invalid_err">Not a valid email!!!</string>
+    <string name="new_user_fname_empty_err">Please provide a first name!!!</string>
+    <string name="new_user_lname_empty_err">Please provide a last name!!!</string>
+    <string name="play_puzzle_incorrect_submission">Incorrect submissions: </string>
+    <string name="play_puzzle_cipher_alpha_err">You provided more ciphers than needed!!!</string>
+    <string name="play_puzzle_cipher_dups_err">Some alphabets have been used more than once in cipher!!!</string>
+    <string name="play_puzzle_cipher_err_not_enough">You have not mapped all characters in cipher.</string>
+    <string name="new_puzzle_name_empty_err">Please provide a name for the cryptogram!!!</string>
+    <string name="new_puzzle_name_taken_err">Cryptogram name already taken!!!</string>
+    <string name="new_puzzle_phrase_empty_err">Please provide a phrase to encode!!!</string>
+    <string name="new_puzzle_cipher_empty_err">Please provide a cipher to encode!!!</string>
+    <string name="new_puzzle_cipher_mismatch_err">Not all alphabets have a encrypt alphabet!!!</string>
+    <string name="new_puzzle_cipher_mismatch2_err">Some alphabets have been used more than once in cipher!!!</string>
+    <string-array name="max_attempts">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+</resources>
